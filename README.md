@@ -8,12 +8,12 @@
 <a href="https://wpa.qq.com/msgrd?v=3&uin=80360650&site=qq&menu=yes" align="center">
   <img align="center" alt="My QQ Group, for Chinese visitors" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/qq.svg" />
 </a>&nbsp;
-<a href="https://twitter.com/irils_s" align="center">
+<a href="https://twitter.com/irils__s" align="center">
   <img align="center" alt="Eltrac on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a>
 <br><br>
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=wibus-wee">
-<a href="https://www.rz.sb" align="center"><img align="center" src="https://img.shields.io/badge/Blog-blog.iucky.cn-yellow"></a>
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=irozhi">
+<a href="https://www.rz.sb" align="center"><img align="center" src="https://img.shields.io/badge/Blog-rz.sb-yellow"></a>
   <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=irozhi&count_private=true&show_icons=true" />
 <br><br>
