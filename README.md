@@ -1,6 +1,6 @@
 
 
-<h3 align="center">I'm Rozhi, nice to meet you here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h3 align="center">I'm Rozhi, nice to meet you here. 😀<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br><br>
 <a href="mailto:irils@qq.com" align="center">
   <img align="center" alt="Email me." width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" />
