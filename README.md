@@ -13,7 +13,6 @@
   <img align="center" alt="Eltrac on Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" />
 </a>
 <br><br>
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=irozhi">
 <a href="https://www.rz.sb" align="center"><img align="center" src="https://img.shields.io/badge/Blog-rz.sb-yellow"></a>
   <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=irozhi&count_private=true&show_icons=true" />
